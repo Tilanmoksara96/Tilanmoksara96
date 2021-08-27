@@ -4,10 +4,10 @@
 
  I'm [Tilan Moksara Hettiarachchi](https://www.linkedin.com/in/tilan-hettiarachchi-8602b2167/) , a **Software Engineer🧑‍💻**, a **UI designer👨‍💻**, a **web devoloper🌐** and a **Photgrapher📸** from Nittambuwa. 
 
-further clarification,
+Further clarification,
 
 - 👨‍🎓 Undergraduate on NSBM Green University with Plymouth University ...
-- 🌱 I’m currently learning MERN Stack ...
+- 🌱 I’m currently learning some languages ...
 - 👨‍💻 Helping others to develop their projects ...
 - 👨‍🎨 Sketching ...
 - 📸 Like to travel 🚶‍♂️🌏 and capturing some sight scens ...
@@ -19,7 +19,7 @@ further clarification,
  
 
 
-<div align="center">
+<div align="left">
     <a href="https://www.linkedin.com/in/tilan-hettiarachchi-8602b2167/">
         <img alt="Tilan's LinkdeIn" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
     </a>
@@ -50,9 +50,9 @@ further clarification,
 <br>
 
 <br/>
-**Skills up with**
-<br>
 
+### Skills up with
+<br>
 <br/>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
