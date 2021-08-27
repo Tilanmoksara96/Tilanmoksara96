@@ -1,7 +1,8 @@
+![header image](https://github.com/Tilanmoksara96/Tilanmoksara96/blob/main/assets/Tilan%20Moksara%20Hettiarachchi.jpg)
 
 ### Hola, Prens! 👋
 
-### I'm [Tilan Moksara Hettiarachchi](https://www.linkedin.com/in/tilan-hettiarachchi-8602b2167/) , a Software Engineer, a UI designer, a web devoloper and a Photgrapher from Nittambuwa. 
+ I'm [Tilan Moksara Hettiarachchi](https://www.linkedin.com/in/tilan-hettiarachchi-8602b2167/) , a **Software Engineer🧑‍💻**, a **UI designer👨‍💻**, a **web devoloper🌐** and a **Photgrapher📸** from Nittambuwa. 
 
 further clarification,
 
@@ -14,11 +15,38 @@ further clarification,
 
 <br/>
 
+### Contact me on  
+ 
+
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/tilan-hettiarachchi-8602b2167/">
+        <img alt="Tilan's LinkdeIn" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.facebook.com/tilanmoksara.tilan/">
+        <img alt="Tilan's Facebook" width="80px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/tilanm96">
+        <img alt="Kaveen's Website" width="80px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="tilanuditha@gmail.com">
+        <img alt="Tilan's Website" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</div>
+
+<br>
+
+<br/>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tilanmoksara96&theme=tokyonight&show_icons=true">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilanmoksara96&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Tilanmoksara96&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br>
 
 <br/>
