@@ -32,12 +32,7 @@ Further clarification,
         <img alt="Kaveen's Website" width="80px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     &nbsp;&nbsp;
-    <a href="tilanuditha@gmail.com">
-    
-    
-    
-        
-    </a>
+    <a href="tilanuditha@gmail.com"><img alt="Tilan's Website" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /a>
 </div>
 
 <br>
