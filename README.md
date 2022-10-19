@@ -2,7 +2,7 @@
 
 ### Hola, Prens! 👋
 
- I'm [Tilan Moksara Hettiarachchi](https://www.linkedin.com/in/tilan-hettiarachchi-8602b2167/) , a **UI/UX Engineer👨‍💻**, a **web devoloper🌐** and a **Photgrapher📸** from Nittambuwa. 
+ I'm [Tilan Moksara Hettiarachchi](https://www.linkedin.com/in/tilan-hettiarachchi-8602b2167/) , a **UI/UX Engineer👨‍💻**, a **web devoloper🌐** and a **Photgrapher📸** 
 
 Further clarification,
 
