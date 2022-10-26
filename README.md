@@ -2,7 +2,7 @@
 
 ### Hola, Prens! 👋
 
- I'm [Tilan Moksara Hettiarachchi](https://www.linkedin.com/in/tilan-hettiarachchi-8602b2167/) , a **UI/UX Engineer👨‍💻**, a **web devoloper🌐** and a **Photgrapher📸** 
+ I'm [Tilan Moksara Hettiarachchi](https://www.linkedin.com/in/tilan-hettiarachchi-8602b2167/) , a **UI/UX Engineer👨‍💻**, a **Web Devoloper🌐** and a **Photgrapher📸** 
 
 Further clarification,
 
@@ -10,7 +10,7 @@ Further clarification,
 - 🌱 I’m currently learning some languages ...
 - 👨‍💻 Helping others to develop their projects ...
 - 👨‍🎨 Sketching ...
-- 📸 Like to travel 🚶‍♂️🌏 and capturing some sight scens ...
+- 📸 Like to travel 🚶‍♂️🌏 and Landscape Photography  ...
 <br>
 
 <br/>
